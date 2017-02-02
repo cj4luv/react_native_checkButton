@@ -1,7 +1,8 @@
 {
 	"name": "react_native_checkButton",
-	"version": "1.0.0",
 	"description": "React-Native Check Button",
+	"version": "1.0.0",
+
 	"author": {"name": "Laon Cho", "email": "laon@fiftybridge.com", "url":"http://www.fiftybridge.com"},
 	"private": true,
 	"scripts": {
@@ -12,11 +13,11 @@
 		"type": "git",
 		"url": "https://github.com/cj4luv/react_native_checkButton.git"
 	},
-	"keywords": [
-    "CheckButton",
-    "Check",
-  ],
-	"license": "FIFTY BRIDGE",
+	"license": [{
+		"type": "FIFTY BRIDGE",
+		"url": "http://www.fiftybridge.com"
+		}],
+	"keywords": [ "CheckButton" ],
 	"dependencies": {
 		"react": "15.4.2",
 		"react-native": "0.40.0"
