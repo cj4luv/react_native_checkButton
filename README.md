@@ -10,9 +10,9 @@ $ npm install --save react_native_check_button
 ```
 
 ## Usage
-
+```jsx
 <CheckButton onChange={ ** Your Method ** } checked={ ** Your Parameters ** } text='Any String' />
-
+```
 
 ## Properties
 | Prop  | Default  | Type | Description |

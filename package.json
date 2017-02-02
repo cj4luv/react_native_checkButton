@@ -1,7 +1,7 @@
 {
 	"name": "react_native_check_button",
 	"description": "React-Native Check Button",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": {"name": "Laon Cho", "email": "laon@fiftybridge.com", "url":"http://www.fiftybridge.com"},
 	"scripts": {
 		"start": "node node_modules/react-native/local-cli/cli.js start",
