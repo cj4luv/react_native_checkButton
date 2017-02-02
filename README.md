@@ -6,8 +6,7 @@ You make Check Button in React-Native
 
 Using npm:
 ```bash
-$ {sudo -H} npm i -g npm
-$ npm i --save lodash._basefor
+$ npm install --save react-native-CheckButton
 ```
 
 ## Usage
