@@ -1,6 +1,6 @@
 {
 	"name": "react_native_checkButton",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "React-Native Check Button",
 	"author": {"name": "Laon Cho", "email": "laon@fiftybridge.com", "url":"http://www.fiftybridge.com"},
 	"private": true,
