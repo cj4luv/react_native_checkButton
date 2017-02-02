@@ -6,7 +6,7 @@ You can make Check Button in React-Native
 
 Using npm:
 ```bash
-$ npm install --save react-native-check-button
+$ npm install --save react-native-check-btn
 ```
 
 ## Usage
