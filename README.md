@@ -24,5 +24,5 @@ $ npm install --save react_native_check_button
 | text | null | `String` | Set to `String` display text. |
 
 
-## License
+## Fifty Bridge License
 See the LICENSE file.
