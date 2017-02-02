@@ -1,6 +1,6 @@
-# react-native-CheckButton v1.0
+# react-native-CheckButton v1.0.0
 
-You make Check Button in React-Native
+You can make Check Button in React-Native
 
 ## Installation
 
