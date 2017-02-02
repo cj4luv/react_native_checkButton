@@ -1,7 +1,7 @@
 {
-  "name": "react-native-check-button",
-  "description": "React-Native Check Button",
-  "version": "1.0.4",
+  "name": "react-native-check-box",
+  "description": "React-Native Check Box",
+  "version": "1.0.0",
   "author": {
     "name": "Laon Cho",
     "email": "laon@fiftybridge.com",
