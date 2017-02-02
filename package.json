@@ -10,8 +10,13 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/cj4luv/react_native_buttons.git"
+		"url": "https://github.com/cj4luv/react_native_checkButton.git"
 	},
+	"keywords": [
+    "CheckButton",
+    "Check",
+  ],
+	"license": "FIFTY BRIDGE",
 	"dependencies": {
 		"react": "15.4.2",
 		"react-native": "0.40.0"
